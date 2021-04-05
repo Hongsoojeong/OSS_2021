@@ -3,6 +3,7 @@ import pgzrun
 alien = Actor('alien')
 #alien.pos = 100, 56
 #2021-04-06
+#commit github
 alien.topright = 0, 10 #(x,y)
 
 WIDTH = 500
